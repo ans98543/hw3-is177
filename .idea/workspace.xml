@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d305d4-1ec3-46bc-b041-9c10df1f7a96" name="Default Changelist" comment="3rd edit">
+    <list default="true" id="e6d305d4-1ec3-46bc-b041-9c10df1f7a96" name="Default Changelist" comment="last edit">
       <change beforePath="$PROJECT_DIR$/Projects/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/project2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,12 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -57,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600899960206</updated>
       <workItem from="1600899961270" duration="427000" />
-      <workItem from="1600900435971" duration="1588000" />
+      <workItem from="1600900435971" duration="1938000" />
     </task>
     <task id="LOCAL-00001" summary="2nd edit">
       <created>1600901254679</created>
@@ -73,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600901924773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3rd edit">
+      <created>1600902119800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600902119800</updated>
+    </task>
+    <task id="LOCAL-00004" summary="last edit">
+      <created>1600902295148</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600902295148</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +113,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd edit" />
     <MESSAGE value="3rd edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd edit" />
+    <MESSAGE value="last edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last edit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1600900069406">
@@ -112,9 +133,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="506" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600900893125" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600901935002">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600902301923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600901935002" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600902301923" />
   </component>
 </project>
