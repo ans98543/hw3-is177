@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d305d4-1ec3-46bc-b041-9c10df1f7a96" name="Default Changelist" comment="">
+    <list default="true" id="e6d305d4-1ec3-46bc-b041-9c10df1f7a96" name="Default Changelist" comment="2nd edit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -24,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,8 +60,16 @@
       <option name="presentableId" value="Default" />
       <updated>1600899960206</updated>
       <workItem from="1600899961270" duration="427000" />
-      <workItem from="1600900435971" duration="781000" />
+      <workItem from="1600900435971" duration="1411000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd edit">
+      <created>1600901254679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600901254679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +85,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd edit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1600900069406">
@@ -95,5 +107,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="506" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600900893125" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600901265180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600901265180" />
   </component>
 </project>
