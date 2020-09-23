@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d305d4-1ec3-46bc-b041-9c10df1f7a96" name="Default Changelist" comment="" />
+    <list default="true" id="e6d305d4-1ec3-46bc-b041-9c10df1f7a96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -46,12 +60,23 @@
       <option name="presentableId" value="Default" />
       <updated>1600899960206</updated>
       <workItem from="1600899961270" duration="427000" />
-      <workItem from="1600900435971" duration="311000" />
+      <workItem from="1600900435971" duration="781000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1600900069406">
@@ -62,5 +87,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="259" y="9" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1600900019396" />
+    <state x="561" y="262" key="Github.ShareDialog" timestamp="1600900844088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1600900844088" />
+    <state x="506" y="69" key="Github.UntrackedFilesDialog" timestamp="1600900893125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="506" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600900893125" />
   </component>
 </project>
